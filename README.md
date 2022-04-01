@@ -9,7 +9,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
@@ -25,10 +24,10 @@
 Developed in React Native using Expo 5.3.0
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- See all hero sheets and their respective xp cards and weapons
+- See all empire cards (Agenda sets, classes etc.)
+- See all items
+- Damage calculator for weapons
 
 `write-your-code-here`
 
