@@ -1,0 +1,77 @@
+{
+  "Items": [
+    {
+      "name": "Armored Gauntlets",
+      "tier": 1,
+      "type": "Melee",
+      "traits": "Fist",
+      "number_of_mod": 0,
+      "cost": 300,
+      "game": "Core"
+    },
+    {
+      "name": "Balanced Hilt",
+      "tier": 1,
+      "type": "Melee Modification",
+      "traits": ["Modification", "Balance"],
+      "number_of_mod": null,
+      "cost": 300,
+      "game": "Core"
+    },
+    {
+      "name": "Combat Coat",
+      "tier": 1,
+      "type": "Armor",
+      "traits": ["Armor", "Light"],
+      "number_of_mod": null,
+      "cost": 500,
+      "abilities": ["+2 Health", "While defending, you may convert 1 or more evade to block results"],
+      "game": "Core"
+    },
+    {
+      "name": "DH-17",
+      "tier": 1,
+      "type": "Ranged",
+      "traits": ["Blaster", "Pistol"],
+      "number_of_mod": 2,
+      "cost": 200,
+      "game": "Core"
+    },
+    {
+      "name": "DL-44",
+      "tier": 1,
+      "type": "Ranged",
+      "traits": ["Blaster", "Pistol"],
+      "number_of_mod": 2,
+      "cost": 500,
+      "game": "Core"
+    },
+    {
+      "name": "E-11",
+      "tier": 1,
+      "type": "Ranged",
+      "traits": ["Blaster", "Rifle"],
+      "number_of_mod": 2,
+      "cost": 400,
+      "game": "Core"
+    },
+    {
+      "name": "Extended Haft",
+      "tier": 1,
+      "type": "Melee Modification",
+      "traits": ["Modification", "Balance"],
+      "number_of_mod": null,
+      "cost": 300,
+      "game": "Core"
+    },
+    {
+      "name": "Marksman Barrel",
+      "tier": 1,
+      "type": "Ranged Modification",
+      "traits": ["Modification", "Barrel"],
+      "number_of_mod": null,
+      "cost": 300,
+      "game": "Core"
+    }
+  ]
+}
